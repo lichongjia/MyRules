@@ -1,4 +1,4 @@
-[custom]
+https://sub-api.ohmy.cat/sub?target=clash&url=https%3A%2F%2Fapi.qiduo.eu.org%2Flink%2FzGDYv1VzQBcNM0qO%3Fsub%3D3&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full.ini&filename=%E8%87%AA%E7%94%B1%E9%B2%B8_v2_acl%26jfz&emoji=true&list=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&sort=false&new_name=true[custom]
 ;不要随意改变关键字，否则会导致出错
 ;acl4SSR规则
 
@@ -10,7 +10,6 @@
 ;增强国外GFW：支持
 
 ;设置规则标志位
-ruleset=🎯 全球直连,https://github.com/lichongjia/MyRules/blob/main/Clash/JFZ_CustomDomain.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
@@ -38,6 +37,7 @@ ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/lichongjia/MyRules/main/Clash/JFZ_CustomDomain.list
 ;ruleset=🎯 全球直连,[]GEOIP,LAN
 ruleset=🎯 全球直连,[]GEOIP,CN
 ruleset=🐟 漏网之鱼,[]FINAL
